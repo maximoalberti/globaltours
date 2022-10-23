@@ -1,0 +1,15 @@
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.csproj.AssemblyReference.cache
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.AssemblyInfoInputs.cache
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.AssemblyInfo.cs
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.csproj.CoreCompileInputs.cache
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/bin/Debug/net6.0/Infraestructura.deps.json
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/bin/Debug/net6.0/Infraestructura.dll
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/bin/Debug/net6.0/Infraestructura.pdb
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/bin/Debug/net6.0/Core.dll
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/bin/Debug/net6.0/Core.pdb
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.csproj.CopyComplete
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.dll
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/refint/Infraestructura.dll
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/Infraestructura.pdb
+/Users/maximoalberti/Documents/C#/GlobalTours/Infraestructura/obj/Debug/net6.0/ref/Infraestructura.dll
